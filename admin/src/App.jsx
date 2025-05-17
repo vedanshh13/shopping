@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar'
 import {Route,Routes} from 'react-router-dom'
 import Add from './pages/Add'
 import List from './pages/List'
-import Orders from './pages/orders'
+import Orders from './pages/Orders'
 import Login from './components/Login'
 import { useState } from 'react'
 export const backendUrl=import.meta.env.VITE_BACKEND_URL;
